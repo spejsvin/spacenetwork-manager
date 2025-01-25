@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "gradient-string": "^3.0.0"
+  }
+}
